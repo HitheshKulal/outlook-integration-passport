@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+
+# Dependency directories
+jspm_packages/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+
+# Local npm cache
+.npm/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# npm package lock
+package-lock.json
+
+# Coverage output
+coverage/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# # Auth configuration files
+# auth.js
